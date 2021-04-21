@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fleet_App</string>
+    <string name="con_msg">No internet connection available</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
